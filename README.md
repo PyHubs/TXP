@@ -1,2 +1,2 @@
 # TXP Da Text Editor XP
-Its a rock
+[Go to blancstore to learn more](https://blancstore.imibuks.repl.co/)
